@@ -1,0 +1,16 @@
+<?php
+/**
+ * @file
+ * contractor_cv.module
+ */
+
+/**
+ * Implements hook_help().
+ */
+function job_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#job':
+
+      return '<pre>Job entity type for use with contractor CV install profile</pre>';
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "drupal/job",
+    "description": "Job entity type.",
+    "type": "drupal-module",
+    "homepage": "https://github.com/cferthorney/job",
+    "authors": [
+        {
+            "name": "David Thorne (cferthorney)",
+            "homepage": "https://www.drupal.org/u/cferthorney",
+            "role": "Maintainer"
+        }
+    ],
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "require": {}
+}

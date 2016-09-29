@@ -1,0 +1,30 @@
+administer jobs:
+  title: 'Administer jobs'
+  description: 'Administer all jobs'
+  restrict access: true
+administer job types:
+  title: 'Administer job types'
+  restrict access: true
+create jobs:
+  title: 'Create jobs'
+  description: 'Create jobs'
+delete all jobs:
+  title: 'Delete all jobs'
+  description: 'Delete any jobs'
+  restrict access: true
+delete own jobs:
+  title: 'Delete own jobs'
+  description: 'Delete own jobs'
+edit all jobs:
+  title: 'Edit all jobs'
+  description: 'Edit all jobs'
+  restrict access: true
+edit own jobs:
+  title: 'Edit own jobs'
+  description: 'Edit own jobs'
+view published jobs:
+  title: 'View published jobs'
+  description: 'View all published jobs'
+view all jobs:
+  title: 'View published jobs'
+  description: 'View all published jobs'

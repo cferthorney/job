@@ -1,0 +1,8 @@
+name: Job
+description: 'A module that defines job content and configuration entities for use with the Contractor CV install profile.'
+type: module
+core: 8.x
+package: Content
+
+dependencies:
+ - datetime_range:datetime_range
