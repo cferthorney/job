@@ -1,0 +1,9 @@
+job.type.*:
+  type: config_object
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Label'
